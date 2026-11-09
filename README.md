@@ -1,4 +1,4 @@
-Next Level Assignment 1 TypeScript
+# Next Level Assignment 1 TypeScript
 
 In this assignment i have completed some task using type script. Here I have used some concept such as interface, class, access modifier , default parameter, union type, tuple, generic, function, asynchronous programming to solve those problems.
 From those tasks I get more clear idea about typescript. Also I have wrote two blogs about Access modifier and type alias vs interface, where i share my knowledge on those concept.
