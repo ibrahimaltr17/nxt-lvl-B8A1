@@ -26,6 +26,6 @@ interface Student extends Person {
 ```
 Here we get name and age from Student interface. Means using extends we can create one interface to another. 
 
-Conclusion: Main different is interface with same name can connect the property. But can not add same type alias.
+Main different is interface with same name can connect the property. But can not add same type alias.
 
 Conclusion: I think type alias is more flexible, cause it can create various kind of data type. And interface it better for create object structure and uses of extends. Basically we can use both in object according to the requirement.
