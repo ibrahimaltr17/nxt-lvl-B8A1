@@ -1,5 +1,6 @@
 # Differences between type aliases and interface
 Introduction: We use type alias and interface for set the data type of a variable or object. It looks quit same but there is difference.
+
 Body: We can use type alias for set data type with a new name. And create primitive type, union type and tuple. 
 example:
 ```ts
