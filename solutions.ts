@@ -76,9 +76,3 @@ const validateAgeAsync= (age: number): Promise<string> => {
   })
 }
 
-const test = async (): Promise<void> => {
-  const result = await validateAgeAsync(15);
-  console.log(result);
-};
-
-test();
